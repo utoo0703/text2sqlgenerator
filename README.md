@@ -83,13 +83,6 @@ Create a `.env` file in the root directory and add the following environment var
    pip install -r requirements.txt
    ```
 
-### Installing ada-genai Package
-
-To install the `ada-genai` package, use the following command:
-```bash
-pip3 install ada-genai --index-url https://jfrogbin.sgp.dbs.com:8443/artifactory/api/pypi/pypi-all/simple --trusted-host jfrogbin.sgp.dbs.com
-```
-Note: Ensure you have the necessary permissions to access this internal PyPI server.
 
 ### Downloading the Synthetic DB
 
