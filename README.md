@@ -121,8 +121,11 @@ If you encounter issues with the virtual environment:
 
 For any persistent issues, please open an issue in the project repository.
 
-## Contact
 
-For any queries or support, please contact:
+
+
+### Architecture Diagram:
+![WhatsApp Image 2024-08-20 at 10 09 14](https://github.com/user-attachments/assets/1a04e124-204b-4447-bfe0-f49d52a099a3)
+
 
 Utsav Sarkar - utsavsarkar@dbs.com
