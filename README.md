@@ -14,10 +14,6 @@ Enterprise Data Assistant is an advanced AI-driven tool designed to assist enter
 
 ## Documentation
 
-Please refer to the following Confluence Page for detailed documentation:
-
-https://confluence.sgp.dbs.com:8443/dcifcnfl/x/1U6EKQ
-
 ## Usage
 
 To run the Enterprise Data Assistant:
@@ -91,10 +87,6 @@ pip3 install ada-genai --index-url https://jfrogbin.sgp.dbs.com:8443/artifactory
 ```
 Note: Ensure you have the necessary permissions to access this internal PyPI server.
 
-### Downloading the Synthetic DB
-
-To download the Synthetic DB, visit the following link:
-https://confluence.sgp.dbs.com:8443/dcifcnfl/x/DM1AKg
 
 ## Managing Dependencies
 
